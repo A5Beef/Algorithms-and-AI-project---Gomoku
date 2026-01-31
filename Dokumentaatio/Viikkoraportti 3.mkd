@@ -1,0 +1,20 @@
+
+Mitä olen tehnyt tällä viikolla?
+Alustin projektinhallinta hommelin poetryssa, lisäsin templaten (valmis random botti) projektiin, troubleshoottasin,
+tein alustavat asennusohjeet.
+
+Miten ohjelma on edistynyt?
+Ihan ok, olisi voinut koodia ehkä tehdä enemmän, mutta muista syistä en saanut paljon aikaseksi (muutto edessä...)
+
+Mitä opin tällä viikolla / tänään?
+Opin enemmän tosta templatesta ja miten se toimii. Aluksi en saanut toimimaan, mutta sitten pitkään troubleshoottasin ja vaihdoin python versioita ja muita
+projektin dependency versioita niin alkoi toimimaan.
+
+Mikä jäi epäselväksi tai tuottanut vaikeuksia?
+Ei nyt tule mitään mieleen. Algoritmia vaan nyt työstän. Ehkä, että miten lähtisi käytännössä toteuttamaan algoritmia. Valmiissa
+templatessa (def brain_turn), onkohan järkevää rakentaa algoritmia vaan tossa funktiossa...? Ja kun oli se, että tutkitaan vastustajan
+liikettä ja lisätään viereiset/järkevät ruudut jonoon, niin luonk sitten erikseen jonkun funktion joka pitää sitä listaa tai voiko
+se vaan olla koodissa..... Testaamalla sitten varmaan selviää.
+
+Mitä teen seuraavaksi?
+Alustavaa minmax algortimia yritän luoda.
